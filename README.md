@@ -1,5 +1,6 @@
 # CS290-Portfolio-Project-
 [![Project 2 Video](https://img.youtube.com/vi/r5O8XvvA4FA/0.jpg)](https://youtu.be/r5O8XvvA4FA)
+
 This portfolio demonstrates a comprehensive web development skill set, featuring a robust web server, user-friendly frontend design, optimized performance, and accessible forms. It integrates Node.js, NPM, and Express for scalable back-end solutions, with JavaScript driving dynamic content and interactive user experiences.
 
 Web Portfolio Overview
